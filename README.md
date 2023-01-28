@@ -1,6 +1,6 @@
 ### Hello World 👋
 * 👂 My name is Haley Cromer 
-* 🔭 I’m currently working on L3a Protocol
+* 🔭 I’m currently working on L3A Protocol
 * 🌱 I’m currently learning about Open-Source Data Initiatives
 * 🤝 I’m looking to collaborate on PostgreSQL Queries
 * 🤔 I’m looking for help with DEX and CEX API's
