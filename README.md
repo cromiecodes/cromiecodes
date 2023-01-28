@@ -39,6 +39,7 @@ My main goal 📈 is to give semi-technical updates on what I am learning workin
 
     💼 Work and Collaborations? 
 
+
 - Reach me via 📧 [email](mailto:haley.cromer@l3a.xyz)
   
 - 💬 Ask me about anything, 
