@@ -33,10 +33,10 @@ I am also an open-source enthusiast and maintainer. I have learned a lot from th
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 Work and Collaborations? reach me
-via [email](mailto:haley.cromer@l3a.xyz)
+- 💼 Work and Collaborations? 
+- reach me via [email](mailto:haley.cromer@l3a.xyz)
 - 💬 ask me about anything, 
-I am happy to help if I can;
+- I am happy to help if I can;
 
 **languages and tools:**  
 
