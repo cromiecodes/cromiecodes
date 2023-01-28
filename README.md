@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World 👋
 * 👂 My name is Haley Cromer 
 * 🔭 I’m currently working on L3a Protocol
 * 🌱 I’m currently learning about Open-Source Data Initiatives
@@ -8,7 +8,7 @@
 * 📫 How to reach me --> haley.cromer@l3a.xyz
 * ❤️ I love Deep Tech DAOs
 * ⚡ Fun fact L3A has over 80% of Web3 and crypto data  
-### hey there 
+### 
 <a href="https://www.instagram.com/web5god/">
   <img align="left" alt="cromie's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
