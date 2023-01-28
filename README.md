@@ -31,7 +31,12 @@ personality 👱🏼‍♀️ with a paassion for decentralization 🔓. I am cu
 
 I'm an open-source enthusiast 🤩 and maintainer 🔗. I have learned 📝 a lot from the open-source community 🏘️ and I love ❤️ how much our technology ⚙️ has advanced through collaboration 🤝 and knowledge 📲 sharing 👥.
 
-In the past I have worked 📄 on the people 👩🏼‍💼 side of many projects 📽️ and communities, but was never motivated to jump in and see 👀 how the technology 👾 really works 📳🔁 Now, I am excited to dive deeper into tech 🤖 and maybe even get my hands 🤲🏻 dirty with code 🔐
+In the past I have worked 📄 on the people 👩🏼‍💼 side of many projects 📽️ and communities, but was never motivated to jump in and see 👀 how the technology 👾 really works 📳🔁 Now, I am excited to dive deeper into tech 🤖 and maybe even get my hands 🤲🏻 dirty with some code 🔐
+
+I am still a beginner 👶🏼 but am eager to learn 👩🏼‍🏫. 
+
+Nevertheless, my main goal 📈 is to give semi-technical updates on what I am learning working on the L3A protocol written in plain English so that other Jr. devs can learn with me 😁 and together we can solve the world's hardest problems 🧩
+
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 
