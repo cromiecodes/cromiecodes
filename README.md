@@ -26,9 +26,9 @@
 
 <br />
 
-Hi ☺︎︎ I'm [Haley Cromer](https://linkedin.com/in/haleycromer/), a passionate video journalist 🎥and Web3 personality 👱🏼‍♀️ with a paassion for decentralization 🔓. I am currently working with L3A Protocol ⚛️ and am hoping to learn more about PostgreSQL 🐘 and GraphQL 📈 as we perfect our Open-Source 🌏 Analytical Query❔Tool 🛠️
+Hi ☺︎︎ I'm [Haley Cromer](https://linkedin.com/in/haleycromer/), a passionate video journalist 🎥and Web3 👾personality 👱🏼‍♀️ with a paassion for decentralization 🔓. I am currently working with L3A Protocol ⚛️ and am hoping to learn more about PostgreSQL 🐘 and GraphQL 📈 as we perfect our Open-Source 🌏 Analytical Query❔Tool 🛠️
 
-I am also an open-source enthusiast and maintainer. I have learned a lot from the open-source community and I love how much our technology has advanced through collaboration and knowledge sharing.
+I am also an open-source enthusiast and maintainer. I have learned a lot from the open-source community and I love ❤️ how much our technology ⚙️ has advanced through collaboration 🤝 and knowledge 📲 sharing 👥.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
