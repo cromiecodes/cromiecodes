@@ -9,9 +9,6 @@
 * ❤️ I love Deep Tech DAOs
 * ⚡ Fun fact L3A has over 80% of Web3 and crypto data  
 ### 
-<a href="https://www.instagram.com/web5god/">
-  <img align="left" alt="cromie's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
 <a href="https://discord.gg/zU4fvgwn">
   <img align="left" alt="L3A Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
