@@ -34,13 +34,6 @@ I am still a beginner 👶🏼 but am eager to learn 👩🏼‍🏫.
 
 My main goal 📈 is to give semi-technical updates on what I am learning working on the L3A protocol written in plain English so that other Jr. devs can learn with me 😁 and together we can solve the world's hardest problems 🧩.
 
-  
-  
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-  
-  
-
     💼 Work and Collaborations? 
 
 
