@@ -24,7 +24,7 @@
 <br />
 
 Hi ☺︎︎ I'm [Haley Cromer](https://linkedin.com/in/haleycromer/), a passionate video journalist 🎥and Web3 🌐 
-personality 👱🏼‍♀️ with a paassion for decentralization 🔓. I am currently working with L3A Protocol ⚛️ and am hoping to learn more about PostgreSQL 🐘 and GraphQL 📈 as we perfect our Open-Source 🌏 Analytical Query❔Tool 🛠️.
+personality 👱🏼‍♀️ with a paassion for decentralization 🔓. I am currently working with Openmesh ⚛️ and am hoping to learn more about PostgreSQL 🐘 and GraphQL 📈 as we perfect our Open-Source 🌏 Analytical Query❔Tool Pythia 🛠️.
 
 I'm an open-source enthusiast 🤩 and maintainer 🔗. I have learned 📝 a lot from the open-source community 🏘️ and I love ❤️ how much our technology ⚙️ has advanced through collaboration 🤝 and knowledge 📲 sharing 👥.
 
@@ -37,7 +37,7 @@ My main goal 📈 is to give semi-technical updates on what I am learning workin
     💼 Work and Collaborations? 
 
 
-- Reach me via 📧 [email](mailto:haley.cromer@l3a.xyz)
+- Reach me via 📧 [email](mailto:haley.cromer@openmesh.network)
   
 - 💬 Ask me about anything, 
 - I am happy to help if I can 😃
