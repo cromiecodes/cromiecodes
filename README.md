@@ -1,13 +1,13 @@
 ### Hello World 👋
 * 👂 My name is Haley Cromer 
-* 🔭 I’m currently working on L3A Protocol
+* 🔭 I’m currently working on Openmesh
 * 🌱 I’m currently learning about Open-Source Data Initiatives
 * 🤝 I’m looking to collaborate on PostgreSQL Queries
 * 🤔 I’m looking for help with DEX and CEX API's
 * 💬 Ask me about Web3 and Decentralization
-* 📫 How to reach me --> haley.cromer@l3a.xyz
+* 📫 How to reach me --> haley.cromer@openmesh.network
 * ❤️ I love Deep Tech DAOs
-* ⚡ Fun fact L3A has over 80% of Web3 and crypto data  
+* ⚡ Fun fact Openmesh has over 80% of Web3 and crypto data  
 ### 
 <a href="https://discord.gg/zU4fvgwn">
   <img align="left" alt="L3A Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
